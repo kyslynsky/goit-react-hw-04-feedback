@@ -4,6 +4,7 @@ export const RateButton = styled.button`
   width: 8vw;
   padding: 5px;
   text-transform: capitalize;
+  font-weight: 700;
   background-color: transparent;
   outline: 0;
   border: 1px solid rgba(25, 118, 210, 0.5);

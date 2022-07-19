@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 
 export const SectionBlock = styled.section`
-  width: 50%;
+  width: 40%;
   margin: 0 auto;
-  padding: 20px;
+  padding: 30px;
   text-align: center;
   border-radius: 5px;
   box-shadow: rgb(0 0 0 / 20%) 0px 3px 1px -2px,
@@ -14,7 +14,7 @@ export const SectionBlock = styled.section`
   }
 
   &:last-child {
-    height: 26vh;
+    height: 30vh;
   }
 `;
 
