@@ -14,7 +14,7 @@ export const SectionBlock = styled.section`
   }
 
   &:last-child {
-    height: 30vh;
+    height: 300px;
   }
 `;
 
